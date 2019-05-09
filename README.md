@@ -9,4 +9,4 @@ parameters on this one, or code modifications, just run it! Easy
 to modify to your own needs, such as the ports/protocols to scan 
 for. Tested on Windows and Raspbian.
 
-                                     - Stephan 
+                                     - Aeneas of Troy 
